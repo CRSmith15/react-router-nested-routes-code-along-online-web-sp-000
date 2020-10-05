@@ -7,3 +7,5 @@ const MovieShow = props => {
     </div>
   )
 }
+
+export default MovieShow;
